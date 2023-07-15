@@ -1,0 +1,1 @@
+export { generateResponseError } from './generateResponseError';
